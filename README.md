@@ -2,6 +2,8 @@
 
 This repository contains my first project in The Odin Project.
 
+Project Link: https://induvarman.github.io/odin-recipes/index.html.
+
 Features:
 
 - A main index page with links to different recipes.
