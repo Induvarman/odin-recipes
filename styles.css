@@ -11,36 +11,40 @@
 }
 
 .header {
-  background-color: #ffaaff;
-  color: #fff;
-  font-size: 40px;
+  background-color: #8effc7;
+  color: #355838;
+  font-size: 28px;
   font-family: Georgia, "Times New Roman", sans-serif;
+  letter-spacing: 1px;
   text-align: center;
-  padding: 8px 0px;
-  border: 2px solid #ff00ff;
+  padding: 16px 0px;
+  border: 2px solid #bcf9ff;
 }
 
 .recipe-container {
+  background-color: #444;
   width: 500px;
   margin: 0 auto;
-  padding: 24px 0px;
+  padding: 24px 16px;
+  margin-top: 50px;
+  border-radius: 25px;
 }
 
 .recipe-container ul li {
-  text-align: center;
+  text-align: left;
   list-style: none;
-  margin-bottom: 8px;
+  margin-bottom: 8px;S
 }
 
 a {
-  color: #fff;
+  color: #32462b;
   font-size: 16px;
   text-decoration: none;
   padding: 8px;
 }
 
 button {
-  background-color: #ff00ff;
-  border: 2px solid #ff002f;
+  background-color: #8effc7;
+  border: 2px solid #99e4ff;
   border-radius: 8px;
 }
