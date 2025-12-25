@@ -1,0 +1,46 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Garamond;
+}
+
+.header {
+  background-color: #ffaaff;
+  color: #fff;
+  font-size: 40px;
+  font-family: Georgia, "Times New Roman", sans-serif;
+  text-align: center;
+  padding: 8px 0px;
+  border: 2px solid #ff00ff;
+}
+
+.recipe-container {
+  width: 500px;
+  margin: 0 auto;
+  padding: 24px 0px;
+}
+
+.recipe-container ul li {
+  text-align: center;
+  list-style: none;
+  margin-bottom: 8px;
+}
+
+a {
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 8px;
+}
+
+button {
+  background-color: #ff00ff;
+  border: 2px solid #ff002f;
+  border-radius: 8px;
+}
